@@ -1,0 +1,2 @@
+Worker:6002 [INFO] Starting worker host=localhost port=6002 pwd=/home/lyuyong/eecs485/project/p4_mapreduce/bin
+Worker:6002 [INFO] manager_host=localhost manager_port=6000
